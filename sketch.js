@@ -1,6 +1,6 @@
 var snakeSize;
-var s;
-var f;
+var s; //snake
+var f; //food
 var score;
 var diff; //lower diff value means higher difficulty
 
